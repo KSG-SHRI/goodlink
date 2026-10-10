@@ -1,3 +1,5 @@
+> **Repository status (2026-10-11):** This public repository currently contains the project documentation and configuration scaffold; the Go application source and tests have not yet been published here. The run commands below are therefore not executable from this repository snapshot. The implementation exists in the local workspace and still needs a successful source upload and test run.
+
 # Goodlink
 
 Goodlink is a small URL shortener built to make links readable and redirects measurable. Generated links use two familiar words and a random suffix; custom aliases and expiry are supported.
